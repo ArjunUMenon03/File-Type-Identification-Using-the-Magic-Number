@@ -128,13 +128,6 @@ Apache Software License (ASL). See `LICENSE` for full terms.
 
 ---
 
-## CI Status
-
-[![Build Status](https://travis-ci.org/yourusername/filemagic.svg?branch=master)](https://travis-ci.org/yourusername/filemagic)
-[![Coverage Status](https://coveralls.io/repos/github/yourusername/filemagic/badge.svg?branch=master)](https://coveralls.io/github/yourusername/filemagic?branch=master)
-
----
-
 ## Further Reading
 
 - [libmagic home](https://darwinsys.com/file/)
